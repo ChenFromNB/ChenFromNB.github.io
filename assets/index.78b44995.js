@@ -1,0 +1,1 @@
+import{d as a}from"./chart.6d53dc83.js";import{j as r}from"./index.e22dc3d4.js";import{D as e}from"./index.6cfaacd3.js";const Y=[a().subtract(7,"day").format("YYYY-MM-DD"),a().subtract(1,"day").format("YYYY-MM-DD")],m=t=>r(e,{mode:"date",placeholder:["\u5F00\u59CB\u65F6\u95F4","\u7ED3\u675F\u65F6\u95F4"],value:Y,format:"YYYY-MM-DD",onChange:o=>t(o)});export{m as L};
